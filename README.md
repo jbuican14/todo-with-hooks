@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Also a cypress test set-up
-![myimage.png](https://user-images.githubusercontent.com/15041008/245511207-a729a42a-1de9-4889-a82c-709fc2750a6c.png)
+![myimage.png](https://user-images.githubusercontent.com/15041008/245521534-6307bc2d-9bad-4d1e-a87b-7446be8d0f17.png)
 
 ## Available Scripts
 
