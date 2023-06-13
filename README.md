@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Also a cypress test set-up
+![myimage.png](https://user-images.githubusercontent.com/15041008/245511207-a729a42a-1de9-4889-a82c-709fc2750a6c.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
