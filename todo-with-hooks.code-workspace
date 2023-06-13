@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Archive/public"
+		},
+		{
+			"path": "../../../Downloads/Archive/src"
+		},
+		{
+			"path": "../../../Downloads/Archive/cypress"
+		}
+	],
+	"settings": {}
+}
